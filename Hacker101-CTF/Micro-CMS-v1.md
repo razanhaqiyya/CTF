@@ -4,6 +4,9 @@
 ### [Hacker101](https://ctf.hacker101.com/ctf)
 
 </div>
+
+---
+
 Halo semuanya! Saya **Razan**, seorang cybersecurity enthusiast. Di sini saya akan membagikan pengalaman saya mengerjakan CTF (*Capture The Flag*).
 
 
@@ -161,4 +164,3 @@ Setelah mengecek **source code** halaman, flag berhasil didapatkan!
 *Feel free to connect and discuss!*
 
 </div>
-<img width="717" height="205" alt="Screenshot 2026-07-15 004746" src="https://github.com/user-attachments/assets/1430234e-ebdd-4753-a61e-9d3d26b1bdf9" />

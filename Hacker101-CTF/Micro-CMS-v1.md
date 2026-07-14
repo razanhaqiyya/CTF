@@ -4,16 +4,7 @@
 ### [Hacker101](https://ctf.hacker101.com/ctf)
 
 </div>
-
-> **Author:** Razan Arsya Haqiyya  
-> **Role:** Cybersecurity Enthusiast  
-> **Platform:** Hacker101 CTF  
-> **Difficulty:** Easy
-
 ---
-
-## 👋 Intro
-
 Halo semuanya! Saya **Razan**, seorang cybersecurity enthusiast. Di sini saya akan membagikan pengalaman saya mengerjakan CTF (*Capture The Flag*).
 
 > ⚠️ **Disclaimer:** Saya bukanlah seorang expert. Tujuan writeup ini hanya untuk *sharing* pengetahuan saya yang sedang mempelajari cybersecurity. Semoga bermanfaat!
